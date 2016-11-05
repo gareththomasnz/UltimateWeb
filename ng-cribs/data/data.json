@@ -1,0 +1,74 @@
+[{
+                        "id": 1,
+			"type": "Condo",
+			"price": 220000,
+			"address": "2134 Grove Street",
+			"description": "A wonderful property",
+                        "details": {
+                                "bedrooms": 2,
+                                "bathrooms": 1,
+                                "area": 921
+                        },
+                        "image": "crib-1"
+		}, {
+                        "id": 2,
+			"type": "House",
+			"price": 410000,
+			"address": "5693 Wilson Street",
+			"description": "Its a great place to live",
+                        "details": {
+                                "bedrooms": 3,
+                                "bathrooms": 2,
+                                "area": 1345
+                        },
+                        "image": "crib-2"
+		}, {
+                        "id": 3,
+			"type": "Duplex",
+			"price": 395000,
+			"address": "456 Almington Avenue",
+			"description": "A wonderful property, Snap this one up while you can",
+                        "details": {
+                                "bedrooms": 3,
+                                "bathrooms": 1,
+                                "area": 1200
+                        },
+                        "image": "crib-3"
+                },{
+                        "id": 4,
+			"type": "Condo",
+			"price": 720000,
+			"address": "324 Wolverton Street",
+			"description": "A stunning property",
+                        "details": {
+                                "bedrooms": 2,
+                                "bathrooms": 2,
+                                "area": 921
+                        },
+                        "image": "crib-4"
+		}, {
+                        "id": 5,
+			"type": "House",
+			"price": 410000,
+			"address": "222 Amberton Street",
+			"description": "Its near to the beach",
+                        "details": {
+                                "bedrooms": 4,
+                                "bathrooms": 1,
+                                "area": 1565
+                        },
+                        "image": "crib-5"
+		}, {
+                        "id": 6,
+			"type": "Duplex",
+			"price": 395000,
+			"address": "687 Nantucket Avenue",
+			"description": "Snap this one up while you can",
+                        "details": {
+                                "bedrooms": 2,
+                                "bathrooms": 1,
+                                "area": 1450
+                        },
+                        "image": "crib-6"
+		}]
+		
